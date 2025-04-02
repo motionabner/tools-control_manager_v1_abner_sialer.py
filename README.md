@@ -16,10 +16,6 @@ A lightweight custom control creation tool for Autodesk Maya, designed to stream
 
 ---
 
-## 📷 UI Preview
-
-<img src="https://your-screenshot-link.com" alt="UI Screenshot" width="500" />
-
 ---
 
 ## 🚀 Installation
